@@ -1,5 +1,7 @@
 {
   "name": "Pcbuild",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
